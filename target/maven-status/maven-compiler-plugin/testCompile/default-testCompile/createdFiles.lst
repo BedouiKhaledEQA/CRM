@@ -1,0 +1,11 @@
+Steps\CalenderTestSteps.class
+Steps\DealSteps.class
+Steps\CasesSteps.class
+Steps\Hooks.class
+Steps\LoginSteps.class
+Steps\EventSteps.class
+Runner\TestRunner.class
+Steps\CompagnieSteps.class
+Steps\CallSteps.class
+Steps\ContactSteps.class
+Steps\TaskSteps.class
